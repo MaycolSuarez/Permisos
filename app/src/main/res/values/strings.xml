@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Permisos</string>
+    <string name="botonCamera">Camera Permissions</string>
+    <string name="botonCheck">Check Permissions</string>
+    <string name="botonLocation">Location Permissions</string>
+    <string name="botonMicrophone">Microphone Permissions</string>
+
+</resources>
